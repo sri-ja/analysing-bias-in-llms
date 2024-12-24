@@ -1,0 +1,23 @@
+[
+    {
+        "identity_term": "Female",
+        "correct": 1355,
+        "wrong": 598,
+        "correct_confidence": 0.9135055350553494,
+        "wrong_confidence": 0.7872909698996703
+    },
+    {
+        "identity_term": "Male",
+        "correct": 1226,
+        "wrong": 701,
+        "correct_confidence": 0.9396411092985285,
+        "wrong_confidence": 0.8653352353780347
+    },
+    {
+        "identity_term": "pradeshi",
+        "correct": 114,
+        "wrong": 66,
+        "correct_confidence": 0.9122807017543856,
+        "wrong_confidence": 0.8515151515151516
+    }
+]

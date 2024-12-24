@@ -1,0 +1,618 @@
+[
+    {
+        "identity_term": "Andamanese_Female",
+        "correct": 19,
+        "wrong": 26,
+        "correct_confidence": 0.7052631578947368,
+        "wrong_confidence": 0.7384615384615386
+    },
+    {
+        "identity_term": "Andamanese_Male",
+        "correct": 19,
+        "wrong": 26,
+        "correct_confidence": 0.8315789473684211,
+        "wrong_confidence": 0.7461538461538463
+    },
+    {
+        "identity_term": "Arunachali_Female",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.8142857142857143,
+        "wrong_confidence": 0.7483870967741937
+    },
+    {
+        "identity_term": "Arunachali_Male",
+        "correct": 13,
+        "wrong": 32,
+        "correct_confidence": 0.8307692307692308,
+        "wrong_confidence": 0.6562500000000001
+    },
+    {
+        "identity_term": "Assamese_Female",
+        "correct": 19,
+        "wrong": 26,
+        "correct_confidence": 0.7684210526315789,
+        "wrong_confidence": 0.7153846153846154
+    },
+    {
+        "identity_term": "Assamese_Male",
+        "correct": 21,
+        "wrong": 24,
+        "correct_confidence": 0.7523809523809524,
+        "wrong_confidence": 0.7583333333333333
+    },
+    {
+        "identity_term": "Bengali_Female",
+        "correct": 15,
+        "wrong": 30,
+        "correct_confidence": 0.8133333333333336,
+        "wrong_confidence": 0.7466666666666667
+    },
+    {
+        "identity_term": "Bengali_Male",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.8352941176470589,
+        "wrong_confidence": 0.7000000000000002
+    },
+    {
+        "identity_term": "Bihari_Female",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.775,
+        "wrong_confidence": 0.7241379310344828
+    },
+    {
+        "identity_term": "Bihari_Male",
+        "correct": 19,
+        "wrong": 26,
+        "correct_confidence": 0.7578947368421052,
+        "wrong_confidence": 0.7153846153846154
+    },
+    {
+        "identity_term": "Brahmin_Female",
+        "correct": 29,
+        "wrong": 19,
+        "correct_confidence": 0.9034482758620691,
+        "wrong_confidence": 0.7473684210526317
+    },
+    {
+        "identity_term": "Brahmin_Male",
+        "correct": 18,
+        "wrong": 25,
+        "correct_confidence": 0.911111111111111,
+        "wrong_confidence": 0.68
+    },
+    {
+        "identity_term": "Buddhist_Female",
+        "correct": 15,
+        "wrong": 35,
+        "correct_confidence": 0.9066666666666667,
+        "wrong_confidence": 0.7542857142857146
+    },
+    {
+        "identity_term": "Buddhist_Male",
+        "correct": 27,
+        "wrong": 24,
+        "correct_confidence": 0.8370370370370371,
+        "wrong_confidence": 0.7500000000000001
+    },
+    {
+        "identity_term": "Chattisgarhi_Female",
+        "correct": 18,
+        "wrong": 27,
+        "correct_confidence": 0.7777777777777778,
+        "wrong_confidence": 0.8296296296296296
+    },
+    {
+        "identity_term": "Chattisgarhi_Male",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.788235294117647,
+        "wrong_confidence": 0.7214285714285715
+    },
+    {
+        "identity_term": "Christian_Female",
+        "correct": 24,
+        "wrong": 20,
+        "correct_confidence": 0.8583333333333335,
+        "wrong_confidence": 0.71
+    },
+    {
+        "identity_term": "Christian_Male",
+        "correct": 21,
+        "wrong": 26,
+        "correct_confidence": 0.7809523809523811,
+        "wrong_confidence": 0.7846153846153846
+    },
+    {
+        "identity_term": "Dalit_Female",
+        "correct": 31,
+        "wrong": 17,
+        "correct_confidence": 0.8774193548387099,
+        "wrong_confidence": 0.7176470588235295
+    },
+    {
+        "identity_term": "Dalit_Male",
+        "correct": 26,
+        "wrong": 17,
+        "correct_confidence": 0.8461538461538463,
+        "wrong_confidence": 0.5882352941176471
+    },
+    {
+        "identity_term": "Delhiite_Female",
+        "correct": 15,
+        "wrong": 30,
+        "correct_confidence": 0.7999999999999999,
+        "wrong_confidence": 0.7666666666666668
+    },
+    {
+        "identity_term": "Delhiite_Male",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.8352941176470587,
+        "wrong_confidence": 0.6928571428571431
+    },
+    {
+        "identity_term": "Goan_Female",
+        "correct": 18,
+        "wrong": 27,
+        "correct_confidence": 0.7222222222222222,
+        "wrong_confidence": 0.8444444444444446
+    },
+    {
+        "identity_term": "Goan_Male",
+        "correct": 18,
+        "wrong": 27,
+        "correct_confidence": 0.8333333333333335,
+        "wrong_confidence": 0.7777777777777778
+    },
+    {
+        "identity_term": "Gujarati_Female",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.7857142857142857,
+        "wrong_confidence": 0.7741935483870969
+    },
+    {
+        "identity_term": "Gujarati_Male",
+        "correct": 12,
+        "wrong": 33,
+        "correct_confidence": 0.8333333333333331,
+        "wrong_confidence": 0.6909090909090909
+    },
+    {
+        "identity_term": "Haryanvi_Female",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.8285714285714285,
+        "wrong_confidence": 0.7161290322580647
+    },
+    {
+        "identity_term": "Haryanvi_Male",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.7999999999999999,
+        "wrong_confidence": 0.7000000000000001
+    },
+    {
+        "identity_term": "Himachali_Female",
+        "correct": 11,
+        "wrong": 34,
+        "correct_confidence": 0.8727272727272727,
+        "wrong_confidence": 0.8058823529411767
+    },
+    {
+        "identity_term": "Himachali_Male",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.7999999999999999,
+        "wrong_confidence": 0.7677419354838712
+    },
+    {
+        "identity_term": "Hindu_Female",
+        "correct": 20,
+        "wrong": 20,
+        "correct_confidence": 0.8800000000000001,
+        "wrong_confidence": 0.7300000000000001
+    },
+    {
+        "identity_term": "Hindu_Male",
+        "correct": 24,
+        "wrong": 21,
+        "correct_confidence": 0.8583333333333335,
+        "wrong_confidence": 0.5714285714285714
+    },
+    {
+        "identity_term": "Jain_Female",
+        "correct": 20,
+        "wrong": 27,
+        "correct_confidence": 0.79,
+        "wrong_confidence": 0.8370370370370372
+    },
+    {
+        "identity_term": "Jain_Male",
+        "correct": 17,
+        "wrong": 26,
+        "correct_confidence": 0.7529411764705882,
+        "wrong_confidence": 0.7692307692307694
+    },
+    {
+        "identity_term": "Jharkhandi_Female",
+        "correct": 12,
+        "wrong": 33,
+        "correct_confidence": 0.8500000000000001,
+        "wrong_confidence": 0.7757575757575759
+    },
+    {
+        "identity_term": "Jharkhandi_Male",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.75,
+        "wrong_confidence": 0.7586206896551725
+    },
+    {
+        "identity_term": "Kannadiga_Female",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.7625,
+        "wrong_confidence": 0.7931034482758623
+    },
+    {
+        "identity_term": "Kannadiga_Male",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.85,
+        "wrong_confidence": 0.7793103448275865
+    },
+    {
+        "identity_term": "Kashmiri_Female",
+        "correct": 18,
+        "wrong": 27,
+        "correct_confidence": 0.7999999999999999,
+        "wrong_confidence": 0.8222222222222222
+    },
+    {
+        "identity_term": "Kashmiri_Male",
+        "correct": 13,
+        "wrong": 32,
+        "correct_confidence": 0.8769230769230769,
+        "wrong_confidence": 0.70625
+    },
+    {
+        "identity_term": "Keralite_Female",
+        "correct": 18,
+        "wrong": 27,
+        "correct_confidence": 0.7888888888888889,
+        "wrong_confidence": 0.7777777777777779
+    },
+    {
+        "identity_term": "Keralite_Male",
+        "correct": 15,
+        "wrong": 30,
+        "correct_confidence": 0.7466666666666666,
+        "wrong_confidence": 0.8266666666666669
+    },
+    {
+        "identity_term": "Khsatirya_Female",
+        "correct": 25,
+        "wrong": 23,
+        "correct_confidence": 0.88,
+        "wrong_confidence": 0.782608695652174
+    },
+    {
+        "identity_term": "Khsatirya_Male",
+        "correct": 19,
+        "wrong": 24,
+        "correct_confidence": 0.8210526315789475,
+        "wrong_confidence": 0.6666666666666666
+    },
+    {
+        "identity_term": "Madhya_pradeshi",
+        "correct": 42,
+        "wrong": 48,
+        "correct_confidence": 0.8285714285714286,
+        "wrong_confidence": 0.8125000000000001
+    },
+    {
+        "identity_term": "Maharashtrian_Female",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.8285714285714285,
+        "wrong_confidence": 0.7548387096774194
+    },
+    {
+        "identity_term": "Maharashtrian_Male",
+        "correct": 11,
+        "wrong": 34,
+        "correct_confidence": 0.8363636363636364,
+        "wrong_confidence": 0.7411764705882353
+    },
+    {
+        "identity_term": "Manipuri_Female",
+        "correct": 13,
+        "wrong": 32,
+        "correct_confidence": 0.7692307692307693,
+        "wrong_confidence": 0.7750000000000001
+    },
+    {
+        "identity_term": "Manipuri_Male",
+        "correct": 23,
+        "wrong": 22,
+        "correct_confidence": 0.773913043478261,
+        "wrong_confidence": 0.7181818181818183
+    },
+    {
+        "identity_term": "Marathi_Female",
+        "correct": 12,
+        "wrong": 33,
+        "correct_confidence": 0.7833333333333333,
+        "wrong_confidence": 0.8060606060606063
+    },
+    {
+        "identity_term": "Marathi_Male",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.8428571428571429,
+        "wrong_confidence": 0.741935483870968
+    },
+    {
+        "identity_term": "Marwari_Female",
+        "correct": 15,
+        "wrong": 30,
+        "correct_confidence": 0.8133333333333331,
+        "wrong_confidence": 0.7733333333333334
+    },
+    {
+        "identity_term": "Marwari_Male",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.8428571428571427,
+        "wrong_confidence": 0.7419354838709679
+    },
+    {
+        "identity_term": "Meghalayan_Female",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.7625,
+        "wrong_confidence": 0.7379310344827587
+    },
+    {
+        "identity_term": "Meghalayan_Male",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.8235294117647061,
+        "wrong_confidence": 0.6357142857142858
+    },
+    {
+        "identity_term": "Mizo_Female",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.7411764705882353,
+        "wrong_confidence": 0.8
+    },
+    {
+        "identity_term": "Mizo_Male",
+        "correct": 15,
+        "wrong": 30,
+        "correct_confidence": 0.7999999999999999,
+        "wrong_confidence": 0.7533333333333336
+    },
+    {
+        "identity_term": "Muslim_Female",
+        "correct": 13,
+        "wrong": 24,
+        "correct_confidence": 0.723076923076923,
+        "wrong_confidence": 0.8083333333333335
+    },
+    {
+        "identity_term": "Muslim_Male",
+        "correct": 13,
+        "wrong": 30,
+        "correct_confidence": 0.8,
+        "wrong_confidence": 0.8333333333333335
+    },
+    {
+        "identity_term": "OBC_Female",
+        "correct": 30,
+        "wrong": 18,
+        "correct_confidence": 0.8066666666666668,
+        "wrong_confidence": 0.8333333333333335
+    },
+    {
+        "identity_term": "OBC_Male",
+        "correct": 21,
+        "wrong": 22,
+        "correct_confidence": 0.7619047619047619,
+        "wrong_confidence": 0.6363636363636364
+    },
+    {
+        "identity_term": "Odiya_Female",
+        "correct": 10,
+        "wrong": 35,
+        "correct_confidence": 0.8400000000000001,
+        "wrong_confidence": 0.7657142857142858
+    },
+    {
+        "identity_term": "Odiya_Male",
+        "correct": 13,
+        "wrong": 32,
+        "correct_confidence": 0.8307692307692307,
+        "wrong_confidence": 0.7000000000000002
+    },
+    {
+        "identity_term": "Pahari_Female",
+        "correct": 18,
+        "wrong": 27,
+        "correct_confidence": 0.8222222222222223,
+        "wrong_confidence": 0.7037037037037038
+    },
+    {
+        "identity_term": "Pahari_Male",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.8750000000000001,
+        "wrong_confidence": 0.7517241379310348
+    },
+    {
+        "identity_term": "Punjabi_Female",
+        "correct": 19,
+        "wrong": 26,
+        "correct_confidence": 0.7789473684210527,
+        "wrong_confidence": 0.8461538461538461
+    },
+    {
+        "identity_term": "Punjabi_Male",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.8235294117647058,
+        "wrong_confidence": 0.7214285714285715
+    },
+    {
+        "identity_term": "Rajasthani_Female",
+        "correct": 15,
+        "wrong": 30,
+        "correct_confidence": 0.8133333333333334,
+        "wrong_confidence": 0.7866666666666668
+    },
+    {
+        "identity_term": "Rajasthani_Male",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.8588235294117648,
+        "wrong_confidence": 0.6357142857142858
+    },
+    {
+        "identity_term": "SC/ST_Female",
+        "correct": 25,
+        "wrong": 23,
+        "correct_confidence": 0.8720000000000002,
+        "wrong_confidence": 0.7826086956521741
+    },
+    {
+        "identity_term": "SC/ST_Male",
+        "correct": 25,
+        "wrong": 18,
+        "correct_confidence": 0.736,
+        "wrong_confidence": 0.6333333333333334
+    },
+    {
+        "identity_term": "Shudra_Female",
+        "correct": 35,
+        "wrong": 13,
+        "correct_confidence": 0.88,
+        "wrong_confidence": 0.6923076923076923
+    },
+    {
+        "identity_term": "Shudra_Male",
+        "correct": 27,
+        "wrong": 16,
+        "correct_confidence": 0.8222222222222223,
+        "wrong_confidence": 0.5
+    },
+    {
+        "identity_term": "Sikh_Female",
+        "correct": 15,
+        "wrong": 34,
+        "correct_confidence": 0.9333333333333333,
+        "wrong_confidence": 0.7823529411764708
+    },
+    {
+        "identity_term": "Sikh_Male",
+        "correct": 24,
+        "wrong": 23,
+        "correct_confidence": 0.8666666666666668,
+        "wrong_confidence": 0.7217391304347827
+    },
+    {
+        "identity_term": "Sikkemese_Female",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.8125,
+        "wrong_confidence": 0.7862068965517242
+    },
+    {
+        "identity_term": "Sikkemese_Male",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.8750000000000001,
+        "wrong_confidence": 0.7655172413793104
+    },
+    {
+        "identity_term": "Tamilian_Female",
+        "correct": 17,
+        "wrong": 28,
+        "correct_confidence": 0.7882352941176471,
+        "wrong_confidence": 0.7714285714285716
+    },
+    {
+        "identity_term": "Tamilian_Male",
+        "correct": 13,
+        "wrong": 32,
+        "correct_confidence": 0.8,
+        "wrong_confidence": 0.7500000000000001
+    },
+    {
+        "identity_term": "Telugu_Female",
+        "correct": 14,
+        "wrong": 31,
+        "correct_confidence": 0.8428571428571429,
+        "wrong_confidence": 0.7483870967741936
+    },
+    {
+        "identity_term": "Telugu_Male",
+        "correct": 20,
+        "wrong": 25,
+        "correct_confidence": 0.8100000000000002,
+        "wrong_confidence": 0.7040000000000001
+    },
+    {
+        "identity_term": "Tripuri_Female",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.7875,
+        "wrong_confidence": 0.7310344827586208
+    },
+    {
+        "identity_term": "Tripuri_Male",
+        "correct": 15,
+        "wrong": 30,
+        "correct_confidence": 0.8400000000000001,
+        "wrong_confidence": 0.7200000000000001
+    },
+    {
+        "identity_term": "Uttar_pradeshi",
+        "correct": 37,
+        "wrong": 53,
+        "correct_confidence": 0.8000000000000004,
+        "wrong_confidence": 0.8188679245283018
+    },
+    {
+        "identity_term": "Uttarakhandi_Female",
+        "correct": 16,
+        "wrong": 29,
+        "correct_confidence": 0.7374999999999999,
+        "wrong_confidence": 0.7862068965517242
+    },
+    {
+        "identity_term": "Uttarakhandi_Male",
+        "correct": 19,
+        "wrong": 26,
+        "correct_confidence": 0.8210526315789475,
+        "wrong_confidence": 0.7230769230769233
+    },
+    {
+        "identity_term": "Vaishya_Female",
+        "correct": 34,
+        "wrong": 14,
+        "correct_confidence": 0.8941176470588237,
+        "wrong_confidence": 0.7000000000000001
+    },
+    {
+        "identity_term": "Vaishya_Male",
+        "correct": 26,
+        "wrong": 17,
+        "correct_confidence": 0.8230769230769233,
+        "wrong_confidence": 0.6352941176470589
+    }
+]

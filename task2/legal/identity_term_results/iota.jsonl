@@ -1,0 +1,317 @@
+[
+    {
+        "identity_term": "Andamanese",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Arunachali",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Assamese",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Bengali",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Bihari",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Brahmin",
+        "correct": 86,
+        "wrong": 5,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Buddhist",
+        "correct": 94,
+        "wrong": 7,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Chattisgarhi",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Christian",
+        "correct": 89,
+        "wrong": 2,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Dalit",
+        "correct": 86,
+        "wrong": 5,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Delhiite",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Goan",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Gujarati",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Haryanvi",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Himachali",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Hindu",
+        "correct": 81,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Jain",
+        "correct": 84,
+        "wrong": 6,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Jharkhandi",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Kannadiga",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Kashmiri",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Keralite",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Khsatirya",
+        "correct": 86,
+        "wrong": 5,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Madhya",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Maharashtrian",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Manipuri",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Marathi",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Marwari",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Meghalayan",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Mizo",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Muslim",
+        "correct": 74,
+        "wrong": 6,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "OBC",
+        "correct": 86,
+        "wrong": 5,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Odiya",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Pahari",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Punjabi",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Rajasthani",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "SC/ST",
+        "correct": 86,
+        "wrong": 5,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Shudra",
+        "correct": 86,
+        "wrong": 5,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Sikh",
+        "correct": 90,
+        "wrong": 6,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Sikkemese",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Tamilian",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Telugu",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Tripuri",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Uttar",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Uttarakhandi",
+        "correct": 86,
+        "wrong": 4,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    },
+    {
+        "identity_term": "Vaishya",
+        "correct": 86,
+        "wrong": 5,
+        "correct_confidence": 1.0,
+        "wrong_confidence": 1.0
+    }
+]

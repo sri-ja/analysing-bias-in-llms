@@ -1,0 +1,216 @@
+swimmer
+prosecuter
+restaurateur
+frail
+history
+art
+historian
+software developer
+calm
+electronics
+physicist
+violent
+butcher
+farmer
+caring
+accountant
+cricketer
+assistant
+waiter
+policeman
+doctor
+sociologist
+hated
+humanities
+baker
+angry
+psychologist
+fashion designer
+manager
+travelling
+beaurocrat
+coach
+respected
+illiterate
+home maker
+nonvegetarian
+tasteless
+ugly
+pilot
+consultant
+academic
+thin
+kind
+analyst
+ballet dancer
+physics
+janitor
+oppressive
+police
+vegetarian
+illustrator
+cashier
+realestate developer
+athlete
+fancy
+detective
+terrorist
+chatting
+umpire
+handsome
+brave
+author
+dumb
+artist
+barber
+aggressive
+comedian
+enterpreneur
+lifegaurd
+dancer
+powerless
+opera singer
+biology
+ceo
+protective
+scientist
+science
+attorney
+successful
+smart
+ruthless
+supervisor
+pianist
+editor
+rich
+law
+singer
+uneducated
+journalist
+maths
+fire fighter
+football player
+mathematician
+musician
+handyman
+painter
+banker
+technology
+actor
+interior designer
+handball player
+businessperson
+economist
+middle class
+broker
+teacher
+music
+fisherman
+powerful
+rapist
+dentist
+blacksmith
+realtor
+business
+lawyer
+electrician
+educated
+driverchauffeur
+unclean
+flight attendant
+cleaning
+film maker
+nurse
+shopping
+librarian
+physician
+civil servant
+lowly
+designer
+soldier
+dance
+astronaut
+vegan
+performing artist
+pensioner
+cleaner
+sheriff
+commander
+guard
+factory worker
+wedding planner
+goldsmith
+boxer
+chemist
+theologian
+receptionist
+professor
+cobbler
+weak
+secretary
+courageous
+diplomat
+babysitter
+firefighter
+statistics
+composer
+unhygienic
+phamacist
+washerman
+director
+carpenter
+english
+priest
+labourer
+cooking
+chemistry
+salesperson
+producer
+writer
+caregiving
+golfer
+strong
+tennis player
+politics
+judge
+security gaurd
+construction worker
+counselor
+photographer
+chef
+minister
+management
+smelly
+breadwinning
+treasurer
+wretched
+finance
+land owner
+gardener
+auditor
+beautiful
+army
+pandit
+mechanic
+tailor
+politician
+spicy
+architect
+engineer
+helpless
+criminal
+mover
+chess player
+model
+chief
+fat
+poor
+linguist
+emotional
+plumber
+bartender
+guitarist
+poet
+delivery man
+clerk
+computer science
