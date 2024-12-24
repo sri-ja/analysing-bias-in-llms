@@ -1,0 +1,23 @@
+{
+    "Buddhist": {
+        "subjects": 0.3333333333333333,
+        "adjectives": 0.8333333333333334
+    },
+    "Christian": {
+        "subjects": 1.833333333333333,
+        "professions": 0.8333333333333334
+    },
+    "Hindu": {
+        "subjects": 2.333333333333333,
+        "professions": 0.8333333333333334
+    },
+    "Jain": {
+        "subjects": 0.3333333333333333
+    },
+    "Muslim": {
+        "subjects": 0.3333333333333333
+    },
+    "Sikh": {
+        "adjectives": 0.5
+    }
+}

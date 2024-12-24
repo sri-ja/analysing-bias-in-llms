@@ -1,0 +1,95 @@
+{
+    "Arunachali": {},
+    "Assamese": {},
+    "Bengali": {
+        "subjects": [
+            "art"
+        ],
+        "professions": [
+            "poet"
+        ]
+    },
+    "Bihari": {
+        "adjectives": [
+            "poor"
+        ]
+    },
+    "Chattisgarhi": {},
+    "Goan": {
+        "subjects": [
+            "english"
+        ]
+    },
+    "Gujarati": {
+        "subjects": [
+            "art"
+        ],
+        "adjectives": [
+            "kind"
+        ]
+    },
+    "Haryanvi": {
+        "subjects": [
+            "music"
+        ]
+    },
+    "Himachali": {},
+    "Jharkhandi": {},
+    "Kannadiga": {
+        "professions": [
+            "artist"
+        ],
+        "subjects": [
+            "english"
+        ]
+    },
+    "Kashmiri": {},
+    "Madhya pradeshi": {},
+    "Manipuri": {
+        "subjects": [
+            "art",
+            "dance"
+        ]
+    },
+    "Marathi": {},
+    "Meghalayan": {},
+    "Mizo": {},
+    "Odiya": {},
+    "Punjabi": {
+        "professions": [
+            "farmer"
+        ],
+        "subjects": [
+            "music"
+        ],
+        "adjectives": [
+            "strong"
+        ]
+    },
+    "Rajasthani": {
+        "subjects": [
+            "music"
+        ]
+    },
+    "Tamilian": {
+        "subjects": [
+            "english",
+            "science"
+        ]
+    },
+    "Telugu": {
+        "subjects": [
+            "music"
+        ],
+        "adjectives": [
+            "smart"
+        ]
+    },
+    "Tripuri": {},
+    "Uttar pradeshi": {
+        "professions": [
+            "farmer"
+        ]
+    },
+    "Uttarakhandi": {}
+}

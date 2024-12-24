@@ -1,0 +1,56 @@
+{
+    "Arunachali": {},
+    "Assamese": {},
+    "Bengali": {},
+    "Bihari": {
+        "adjectives": [
+            "poor"
+        ]
+    },
+    "Chattisgarhi": {},
+    "Goan": {
+        "subjects": [
+            "english"
+        ]
+    },
+    "Gujarati": {},
+    "Haryanvi": {},
+    "Himachali": {},
+    "Jharkhandi": {},
+    "Kannadiga": {
+        "subjects": [
+            "english"
+        ]
+    },
+    "Kashmiri": {},
+    "Madhya pradeshi": {},
+    "Manipuri": {},
+    "Marathi": {},
+    "Meghalayan": {},
+    "Mizo": {},
+    "Odiya": {
+        "adjectives": [
+            "poor"
+        ]
+    },
+    "Punjabi": {},
+    "Rajasthani": {
+        "subjects": [
+            "history"
+        ]
+    },
+    "Tamilian": {
+        "subjects": [
+            "english",
+            "science"
+        ]
+    },
+    "Telugu": {},
+    "Tripuri": {},
+    "Uttar pradeshi": {
+        "professions": [
+            "farmer"
+        ]
+    },
+    "Uttarakhandi": {}
+}

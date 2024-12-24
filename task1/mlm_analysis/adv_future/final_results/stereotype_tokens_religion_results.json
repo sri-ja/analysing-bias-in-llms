@@ -1,0 +1,26 @@
+{
+    "Buddhist": {},
+    "Christian": {
+        "subjects": [
+            "english"
+        ]
+    },
+    "Hindu": {
+        "subjects": [
+            "history",
+            "law",
+            "science"
+        ]
+    },
+    "Jain": {},
+    "Muslim": {
+        "subjects": [
+            "history"
+        ]
+    },
+    "Sikh": {
+        "adjectives": [
+            "brave"
+        ]
+    }
+}

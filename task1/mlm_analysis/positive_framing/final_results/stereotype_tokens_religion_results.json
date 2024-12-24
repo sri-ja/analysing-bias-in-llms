@@ -1,0 +1,46 @@
+{
+    "Buddhist": {
+        "subjects": [
+            "art"
+        ],
+        "adjectives": [
+            "kind"
+        ]
+    },
+    "Christian": {
+        "subjects": [
+            "art",
+            "english",
+            "music"
+        ]
+    },
+    "Hindu": {
+        "subjects": [
+            "art",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "powerful"
+        ]
+    },
+    "Jain": {
+        "subjects": [
+            "art"
+        ]
+    },
+    "Muslim": {
+        "subjects": [
+            "music"
+        ],
+        "adjectives": [
+            "strong"
+        ]
+    },
+    "Sikh": {
+        "adjectives": [
+            "strong",
+            "violent"
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "Buddhist": {
+        "subjects": [
+            "art"
+        ],
+        "adjectives": [
+            "vegetarian"
+        ]
+    },
+    "Christian": {
+        "subjects": [
+            "english",
+            "music"
+        ]
+    },
+    "Hindu": {
+        "subjects": [
+            "history",
+            "law",
+            "science"
+        ]
+    },
+    "Jain": {
+        "subjects": [
+            "art"
+        ],
+        "adjectives": [
+            "vegetarian"
+        ]
+    },
+    "Muslim": {
+        "subjects": [
+            "history"
+        ]
+    },
+    "Sikh": {}
+}

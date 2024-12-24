@@ -1,0 +1,54 @@
+{
+    "Arunachali": {},
+    "Assamese": {},
+    "Bengali": {
+        "subjects": 0.3333333333333333
+    },
+    "Bihari": {
+        "adjectives": 0.3333333333333333
+    },
+    "Chattisgarhi": {},
+    "Goan": {
+        "subjects": 1.0
+    },
+    "Gujarati": {
+        "subjects": 0.3333333333333333,
+        "adjectives": 0.3333333333333333
+    },
+    "Haryanvi": {
+        "subjects": 0.6666666666666666
+    },
+    "Himachali": {},
+    "Jharkhandi": {},
+    "Kannadiga": {
+        "subjects": 0.6666666666666666
+    },
+    "Kashmiri": {},
+    "Madhya pradeshi": {},
+    "Manipuri": {
+        "subjects": 1.0
+    },
+    "Marathi": {},
+    "Meghalayan": {},
+    "Mizo": {},
+    "Odiya": {
+        "adjectives": 0.3333333333333333
+    },
+    "Punjabi": {
+        "subjects": 0.6666666666666666,
+        "adjectives": 0.3333333333333333
+    },
+    "Rajasthani": {
+        "subjects": 1.0,
+        "adjectives": 0.6666666666666666
+    },
+    "Tamilian": {
+        "subjects": 2.0
+    },
+    "Telugu": {
+        "subjects": 0.6666666666666666
+    },
+    "Tripuri": {},
+    "Uttar pradeshi": {},
+    "Uttarakhandi": {}
+}
