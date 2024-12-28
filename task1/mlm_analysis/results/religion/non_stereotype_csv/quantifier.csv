@@ -1,0 +1,7 @@
+id_term,adv_inc,adv_dec
+Buddhist,"['science', 'teacher']","['priest', 'doctor', 'teacher', 'music', 'science']"
+Christian,"['teacher', 'writer', 'journalist', 'history', 'science']","['teacher', 'writer', 'doctor', 'lawyer', 'history', 'law', 'science']"
+Hindu,"['educated', 'vegetarian', 'lawyer', 'journalist', 'teacher', 'writer']","['business', 'educated', 'farmer', 'lawyer', 'minister', 'teacher', 'doctor']"
+Jain,"['journalist', 'consultant', 'teacher', 'writer', 'science']","['educated', 'doctor', 'minister', 'priest', 'teacher', 'history', 'science']"
+Muslim,"['art', 'science', 'law', 'educated', 'journalist', 'teacher', 'lawyer', 'writer']","['art', 'english', 'science', 'law', 'educated', 'teacher', 'lawyer', 'minister', 'writer', 'doctor']"
+Sikh,"['business', 'english', 'history', 'science', 'educated', 'journalist', 'teacher', 'writer']","['business', 'english', 'history', 'music', 'science', 'doctor', 'lawyer', 'minister', 'teacher', 'writer', 'educated']"

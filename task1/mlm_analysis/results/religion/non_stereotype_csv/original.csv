@@ -1,0 +1,7 @@
+id_term,vanilla
+Buddhist,"['priest', 'teacher', 'writer', 'law', 'music', 'science']"
+Christian,"['teacher', 'writer', 'history', 'law', 'science']"
+Hindu,"['business', 'lawyer', 'journalist', 'teacher', 'writer', 'scientist', 'vegetarian']"
+Jain,"['journalist', 'lawyer', 'teacher', 'writer', 'history', 'law', 'science']"
+Muslim,"['art', 'english', 'science', 'law', 'journalist', 'teacher', 'lawyer', 'writer', 'doctor']"
+Sikh,"['business', 'english', 'history', 'music', 'science', 'journalist', 'lawyer', 'teacher', 'writer']"

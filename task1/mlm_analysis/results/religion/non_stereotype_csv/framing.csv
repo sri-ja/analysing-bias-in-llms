@@ -1,0 +1,7 @@
+id_term,neutral_framing,positive_framing,negative_framing
+Buddhist,"['music', 'teacher', 'writer']","['artist', 'author', 'poet', 'teacher', 'writer', 'beautiful', 'strong', 'music', 'science']","['priest', 'english', 'history', 'law', 'science', 'violent']"
+Christian,"['teacher', 'writer', 'history', 'law', 'science']","['artist', 'author', 'politician', 'teacher', 'writer', 'kind', 'law', 'science']","['history', 'law', 'science', 'violent']"
+Hindu,"['lawyer', 'teacher', 'doctor']","['artist', 'poet', 'author', 'teacher', 'writer', 'politician', 'poor', 'strong', 'violent', 'english']","['poor', 'weak', 'english']"
+Jain,"['journalist', 'lawyer', 'priest', 'teacher', 'writer', 'history', 'music']","['artist', 'poet', 'author', 'coach', 'politician', 'teacher', 'writer', 'brave', 'kind', 'violent', 'music', 'science']","['history', 'law', 'science', 'poor', 'violent', 'teacher']"
+Muslim,"['english', 'science', 'teacher', 'lawyer', 'writer', 'doctor']","['artist', 'poet', 'teacher', 'writer', 'pilot', 'politician', 'art', 'science', 'law', 'poor']","['english', 'science', 'law', 'teacher', 'poor', 'weak']"
+Sikh,"['english', 'history', 'music', 'lawyer', 'teacher', 'writer']","['art', 'music', 'science', 'artist', 'author', 'coach', 'poet', 'politician', 'teacher', 'writer', 'kind']","['business', 'english', 'history', 'science']"
