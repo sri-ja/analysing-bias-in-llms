@@ -135,3 +135,44 @@
 | Jain        | vegetarian                    | art                             |
 | Muslim      | history, music                | history                         |
 | Sikh        |                               | violent                         |
+
+# Non-Stereotype Analysis
+
+
+### Region identity terms not having the top 5 non stereotypes
+
+| Token        | Identity Terms                                               |
+|:-------------|:-------------------------------------------------------|
+| 'science'    | Gujarati, Tamilian                                     |
+| 'writer'     | Himachali                                              |
+| 'journalist' | Himachali, Telugu                                      |
+| 'history'    | Himachali, Madhya pradeshi, Rajasthani, Uttar pradeshi |
+| 'teacher'    | Tripuri                                                |
+
+### Region identity terms with the bottom 5 non stereotypes
+
+| Token      | Identity Terms                                                  |
+|:-----------|:----------------------------------------------------------|
+| 'musician' | Goan, Kannadiga, Tripuri                                  |
+| 'painter'  | Goan, Rajasthani                                          |
+| 'poor'     | Jharkhandi, Madhya pradeshi, Uttar pradeshi, Uttarakhandi |
+| 'artist'   | Tripuri                                                   |
+| 'politics' | Uttar pradeshi                                            |
+
+### Religion identity terms not having the top 5 non stereotypes
+
+| Token     | Identity Terms            |
+|:----------|:--------------------|
+| 'lawyer'  | Buddhist, Christian |
+| 'science' | Hindu               |
+| 'law'     | Hindu, Sikh         |
+
+### Religion identity terms with the bottom 5 non stereotypes
+
+| Token        | Identity Terms   |
+|:-------------|:-----------|
+| 'priest'     | Buddhist   |
+| 'scientist'  | Hindu      |
+| 'vegetarian' | Hindu      |
+| 'art'        | Muslim     |
+| 'doctor'     | Muslim     |
