@@ -1,5 +1,13 @@
 # Analysing Bias in LLMs
 
+### About
+
+This project aims to analyse the biases present in LLMs with a focus on the Indian context. The project is divided into two tasks. The first task focuses on analysing the biases present in the language models by using the MLM task. The second task focuses on analysing the biases present in the language models when used in legal settings. The project uses the Hugging Face Transformers library for running the models. The project uses the dataset [nlp-fairness-for-india](https://github.com/google-research-datasets/nlp-fairness-for-india) base on the paper [Re-contextualizing Fairness in NLP: The Case of India](https://arxiv.org/abs/2209.12226).
+
+### Presentation
+
+A presentation based on the analysis made as a part of the project is available [here](https://www.canva.com/design/DAGaRiy5ShA/xvRmIe9U_qkCeeTiAJ5sIg/view?utm_content=DAGaRiy5ShA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h511ddf496c)
+
 ### Running Code
 All the code is divided into notebooks. The code can be run by opening the notebooks in Google Colab or locally and running the cells. The code is written in Python and uses the Hugging Face Transformers library, and Pipelines for running the models.
 
