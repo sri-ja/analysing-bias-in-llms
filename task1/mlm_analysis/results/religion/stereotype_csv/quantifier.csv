@@ -1,0 +1,7 @@
+id_term,adv_inc,adv_dec
+Buddhist,"['art', 'vegetarian']","['art', 'vegetarian']"
+Christian,"['art', 'music']","['art', 'english', 'music', 'priest']"
+Hindu,"['art', 'history', 'law', 'science']","['art', 'history', 'law', 'music', 'science', 'priest']"
+Jain,['vegetarian'],['art']
+Muslim,"['history', 'music']",['history']
+Sikh,,['violent']

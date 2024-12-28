@@ -1,0 +1,7 @@
+id_term,adv_perspective_shift
+Buddhist,['art']
+Christian,"['art', 'music', 'priest']"
+Hindu,"['art', 'history', 'law', 'music', 'science', 'priest']"
+Jain,['art']
+Muslim,"['history', 'music']"
+Sikh,['violent']

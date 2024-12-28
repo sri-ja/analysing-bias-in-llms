@@ -1,0 +1,6 @@
+id_term,vanilla
+Buddhist,['art']
+Christian,"['art', 'english', 'music', 'priest']"
+Hindu,"['art', 'history', 'law', 'music', 'science', 'priest']"
+Jain,"['art', 'vegetarian']"
+Muslim,"['history', 'music']"

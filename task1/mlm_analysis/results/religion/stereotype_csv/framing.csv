@@ -1,0 +1,7 @@
+id_term,neutral_framing,positive_framing,negative_framing
+Buddhist,['art'],"['art', 'kind']",
+Christian,"['art', 'english', 'music', 'priest']","['art', 'english', 'music']","['english', 'music', 'priest']"
+Hindu,"['history', 'music']","['art', 'music', 'science', 'powerful']","['history', 'law', 'science']"
+Muslim,"['history', 'music']","['music', 'strong']","['history', 'violent']"
+Sikh,['angry'],"['strong', 'violent']",['violent']
+Jain,,['art'],

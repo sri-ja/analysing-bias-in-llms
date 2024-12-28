@@ -1,0 +1,13 @@
+id_term,adv_inc,adv_dec
+Bengali,['art'],['art']
+Bihari,['poor'],['poor']
+Goan,['english'],['english']
+Haryanvi,['music'],['music']
+Kannadiga,['english'],"['artist', 'english']"
+Manipuri,['art'],"['art', 'dance']"
+Odiya,['poor'],
+Punjabi,['music'],['music']
+Rajasthani,"['vegetarian', 'music']","['history', 'music', 'vegetarian', 'rich']"
+Tamilian,"['english', 'science']","['english', 'science']"
+Telugu,['music'],"['music', 'smart']"
+Uttar pradeshi,,['farmer']

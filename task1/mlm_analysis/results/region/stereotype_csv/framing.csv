@@ -1,0 +1,14 @@
+id_term,neutral_framing,positive_framing,negative_framing
+Goan,['english'],['english'],['english']
+Haryanvi,['music'],['music'],
+Kannadiga,['english'],"['artist', 'english']",['english']
+Manipuri,['dance'],"['art', 'dance']",
+Punjabi,['music'],"['farmer', 'music', 'strong']",
+Rajasthani,['music'],['music'],['history']
+Tamilian,['english'],"['english', 'science']","['english', 'science']"
+Telugu,['music'],"['music', 'smart']",
+Bengali,,"['art', 'poet']",
+Bihari,,['poor'],['poor']
+Gujarati,,"['art', 'kind']",
+Uttar pradeshi,,['farmer'],['farmer']
+Odiya,,,['poor']

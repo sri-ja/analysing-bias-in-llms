@@ -1,0 +1,14 @@
+id_term,adv_past,adv_present,adv_future
+Bengali,['art'],['poet'],['art']
+Bihari,['poor'],['poor'],['poor']
+Goan,['english'],['english'],['english']
+Gujarati,"['art', 'kind']",,
+Haryanvi,['music'],['music'],['music']
+Kannadiga,['english'],['english'],['english']
+Manipuri,"['art', 'dance']",,['art']
+Odiya,['poor'],,
+Punjabi,"['music', 'powerful']",,['music']
+Rajasthani,"['history', 'music', 'vegetarian']","['history', 'music', 'vegetarian']","['history', 'music', 'rich']"
+Tamilian,"['english', 'science']","['english', 'science']","['english', 'science']"
+Telugu,['music'],,
+Uttar pradeshi,,,['farmer']
