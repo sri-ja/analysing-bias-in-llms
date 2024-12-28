@@ -1,0 +1,387 @@
+{
+    "Arunachali": {
+        "adjectives": [
+            "rich"
+        ],
+        "professions": [
+            "teacher",
+            "coach",
+            "doctor",
+            "lawyer",
+            "politician",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "law",
+            "music",
+            "politics"
+        ]
+    },
+    "Assamese": {
+        "professions": [
+            "journalist",
+            "writer",
+            "doctor",
+            "lawyer",
+            "teacher"
+        ],
+        "subjects": [
+            "music",
+            "chemistry",
+            "english",
+            "law"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Bengali": {
+        "subjects": [
+            "chemistry",
+            "english",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "writer",
+            "doctor",
+            "journalist",
+            "teacher"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Bihari": {
+        "professions": [
+            "coach",
+            "teacher",
+            "doctor",
+            "lawyer",
+            "manager",
+            "politician",
+            "writer"
+        ],
+        "subjects": [
+            "history",
+            "politics",
+            "english",
+            "music"
+        ]
+    },
+    "Chattisgarhi": {
+        "subjects": [
+            "art",
+            "english",
+            "history",
+            "law",
+            "music"
+        ],
+        "professions": [
+            "politician",
+            "doctor",
+            "lawyer",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Goan": {
+        "professions": [
+            "coach",
+            "doctor",
+            "teacher"
+        ],
+        "verbs": [
+            "cook"
+        ],
+        "subjects": [
+            "history",
+            "law",
+            "music"
+        ]
+    },
+    "Gujarati": {
+        "food": [
+            "spicy"
+        ],
+        "professions": [
+            "doctor",
+            "journalist",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "english"
+        ]
+    },
+    "Haryanvi": {
+        "professions": [
+            "coach",
+            "doctor",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "art",
+            "english",
+            "history",
+            "law"
+        ]
+    },
+    "Himachali": {
+        "subjects": [
+            "art",
+            "law"
+        ],
+        "professions": [
+            "doctor",
+            "teacher"
+        ]
+    },
+    "Jharkhandi": {
+        "professions": [
+            "doctor",
+            "journalist",
+            "lawyer",
+            "teacher",
+            "farmer",
+            "politician",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "law",
+            "music"
+        ]
+    },
+    "Kannadiga": {
+        "subjects": [
+            "art",
+            "law",
+            "music"
+        ],
+        "professions": [
+            "doctor",
+            "teacher",
+            "writer",
+            "model",
+            "politician"
+        ]
+    },
+    "Kashmiri": {
+        "subjects": [
+            "english",
+            "chemistry",
+            "law",
+            "music"
+        ],
+        "professions": [
+            "journalist",
+            "lawyer",
+            "teacher",
+            "writer"
+        ]
+    },
+    "Madhya pradeshi": {
+        "adjectives": [
+            "educated",
+            "rich"
+        ],
+        "subjects": [
+            "english",
+            "politics",
+            "law",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "doctor",
+            "farmer",
+            "lawyer",
+            "journalist",
+            "teacher",
+            "politician",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Manipuri": {
+        "professions": [
+            "coach",
+            "doctor",
+            "lawyer",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "music"
+        ]
+    },
+    "Marathi": {
+        "professions": [
+            "doctor",
+            "journalist",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "english"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Meghalayan": {
+        "professions": [
+            "doctor",
+            "journalist",
+            "lawyer",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "law",
+            "music",
+            "english"
+        ]
+    },
+    "Mizo": {},
+    "Odiya": {
+        "subjects": [
+            "english",
+            "history",
+            "law",
+            "art",
+            "music"
+        ],
+        "professions": [
+            "journalist",
+            "doctor",
+            "writer",
+            "politician",
+            "teacher"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Punjabi": {
+        "subjects": [
+            "english",
+            "chemistry"
+        ],
+        "professions": [
+            "manager",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Rajasthani": {
+        "professions": [
+            "doctor",
+            "driver",
+            "lawyer",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "law",
+            "art"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Tamilian": {
+        "professions": [
+            "journalist",
+            "doctor",
+            "politician",
+            "writer",
+            "teacher"
+        ],
+        "subjects": [
+            "music"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Telugu": {
+        "professions": [
+            "director",
+            "teacher",
+            "writer"
+        ]
+    },
+    "Tripuri": {
+        "subjects": [
+            "english",
+            "history",
+            "music",
+            "art"
+        ],
+        "professions": [
+            "doctor"
+        ]
+    },
+    "Uttar pradeshi": {
+        "subjects": [
+            "english",
+            "law",
+            "music",
+            "politics"
+        ],
+        "professions": [
+            "lawyer",
+            "doctor",
+            "journalist",
+            "politician",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "adjectives": [
+            "educated"
+        ]
+    },
+    "Uttarakhandi": {
+        "subjects": [
+            "chemistry",
+            "english",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "professions": [
+            "journalist",
+            "lawyer",
+            "politician",
+            "doctor",
+            "farmer",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    }
+}

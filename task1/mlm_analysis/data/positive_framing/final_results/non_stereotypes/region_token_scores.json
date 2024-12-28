@@ -1,0 +1,135 @@
+{
+    "Arunachali": {
+        "professions": 0.8446996547281742,
+        "adjectives": 0.23515808209776878,
+        "subjects": 0.43930456414818764
+    },
+    "Assamese": {
+        "subjects": 0.48211065866053104,
+        "professions": 1.015132151544094,
+        "adjectives": 0.16344208642840385,
+        "food": 0.08706545829772949
+    },
+    "Bengali": {
+        "professions": 0.8909669313579798,
+        "adjectives": 0.10543764941394329,
+        "subjects": 0.6311899274587631,
+        "food": 0.051232364028692245
+    },
+    "Bihari": {
+        "subjects": 0.5586049687117338,
+        "professions": 0.9361715074628592,
+        "adjectives": 0.15461230278015137
+    },
+    "Chattisgarhi": {
+        "subjects": 0.5391109324991703,
+        "professions": 1.0314497519284487,
+        "adjectives": 0.14901330135762691,
+        "food": 0.06871140748262405
+    },
+    "Goan": {
+        "subjects": 0.35477577336132526,
+        "professions": 0.7383316159248352,
+        "adjectives": 0.09993075393140316
+    },
+    "Gujarati": {
+        "professions": 1.1469493936747313,
+        "subjects": 0.35557169653475285,
+        "food": 0.06358125805854797
+    },
+    "Haryanvi": {
+        "professions": 0.8508364520967007,
+        "adjectives": 0.2487704399973154,
+        "subjects": 0.35335560888051987
+    },
+    "Himachali": {
+        "subjects": 0.23782499134540558,
+        "professions": 0.26074565574526787,
+        "adjectives": 0.07483446225523949
+    },
+    "Jharkhandi": {
+        "subjects": 0.4619663655757904,
+        "professions": 1.1379039734601974,
+        "adjectives": 0.19531282782554626
+    },
+    "Kannadiga": {
+        "adjectives": 0.13658125698566437,
+        "subjects": 0.7022979278117418,
+        "professions": 0.7640945091843605
+    },
+    "Kashmiri": {
+        "professions": 0.9800083562731743,
+        "subjects": 0.32666729018092155,
+        "adjectives": 0.17700636945664883
+    },
+    "Madhya pradeshi": {
+        "subjects": 0.4775521568953991,
+        "adjectives": 0.22811114974319935,
+        "professions": 1.1757711619138718,
+        "food": 0.0903303474187851
+    },
+    "Manipuri": {
+        "professions": 0.8299330957233906,
+        "adjectives": 0.15201543644070625,
+        "subjects": 0.4220331348478794
+    },
+    "Marathi": {
+        "professions": 1.2210342809557915,
+        "subjects": 0.5010047070682049,
+        "adjectives": 0.08351113181561232,
+        "food": 0.11850512027740479
+    },
+    "Meghalayan": {
+        "subjects": 0.4902703706175089,
+        "professions": 0.8886935077607632,
+        "adjectives": 0.1102204155176878
+    },
+    "Mizo": {
+        "professions": 0.02883719652891159
+    },
+    "Odiya": {
+        "professions": 0.8654970414936543,
+        "subjects": 0.5459027662873268,
+        "adjectives": 0.17174099944531918,
+        "food": 0.046779219061136246
+    },
+    "Punjabi": {
+        "subjects": 0.371036060154438,
+        "professions": 1.0851368010044098,
+        "adjectives": 0.07310346700251102,
+        "food": 0.07719548046588898
+    },
+    "Rajasthani": {
+        "professions": 1.141393143683672,
+        "subjects": 0.28869765251874924,
+        "adjectives": 0.07892313972115517,
+        "food": 0.10052966326475143
+    },
+    "Tamilian": {
+        "subjects": 0.2684308886528015,
+        "professions": 1.0862595923244953,
+        "adjectives": 0.049334220588207245,
+        "food": 0.0909801796078682
+    },
+    "Telugu": {
+        "subjects": 0.17484360933303833,
+        "professions": 0.6633219718933105
+    },
+    "Tripuri": {
+        "professions": 0.6841377150267363,
+        "subjects": 0.5433355774730444,
+        "adjectives": 0.06867984496057034
+    },
+    "Uttar pradeshi": {
+        "subjects": 0.45151653699576855,
+        "professions": 0.9955979622900486,
+        "adjectives": 0.2121043410152197,
+        "food": 0.06262493878602982
+    },
+    "Uttarakhandi": {
+        "professions": 0.8065314721316099,
+        "subjects": 0.41792116686701775,
+        "adjectives": 0.23156875371932983,
+        "food": 0.057707514613866806
+    }
+}

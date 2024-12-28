@@ -1,0 +1,110 @@
+{
+    "Buddhist": {
+        "professions": [
+            "artist",
+            "author",
+            "poet",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "beautiful",
+            "strong"
+        ],
+        "subjects": [
+            "music",
+            "science"
+        ]
+    },
+    "Christian": {
+        "professions": [
+            "artist",
+            "author",
+            "politician",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "kind"
+        ],
+        "subjects": [
+            "law",
+            "science"
+        ]
+    },
+    "Hindu": {
+        "professions": [
+            "artist",
+            "poet",
+            "author",
+            "teacher",
+            "writer",
+            "politician"
+        ],
+        "adjectives": [
+            "poor",
+            "strong",
+            "violent"
+        ],
+        "subjects": [
+            "english"
+        ]
+    },
+    "Jain": {
+        "professions": [
+            "artist",
+            "poet",
+            "author",
+            "coach",
+            "politician",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "brave",
+            "kind",
+            "violent"
+        ],
+        "subjects": [
+            "music",
+            "science"
+        ]
+    },
+    "Muslim": {
+        "professions": [
+            "artist",
+            "poet",
+            "teacher",
+            "writer",
+            "pilot",
+            "politician"
+        ],
+        "subjects": [
+            "art",
+            "science",
+            "law"
+        ],
+        "adjectives": [
+            "poor"
+        ]
+    },
+    "Sikh": {
+        "subjects": [
+            "art",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "artist",
+            "author",
+            "coach",
+            "poet",
+            "politician",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "kind"
+        ]
+    }
+}

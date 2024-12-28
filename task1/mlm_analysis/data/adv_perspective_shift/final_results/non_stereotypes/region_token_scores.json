@@ -1,0 +1,136 @@
+{
+    "Arunachali": {
+        "subjects": 0.6554783750325441,
+        "professions": 0.522568853572011,
+        "adjectives": 0.042557790875434875
+    },
+    "Assamese": {
+        "subjects": 0.8514636717736721,
+        "professions": 0.5996725000441074,
+        "adjectives": 0.12301517464220524,
+        "food": 0.12641608715057373,
+        "verbs": 0.023248950019478798
+    },
+    "Bengali": {
+        "adjectives": 0.08118677325546741,
+        "subjects": 0.8994410280138254,
+        "professions": 0.5860805287957191,
+        "food": 0.047664493322372437,
+        "verbs": 0.017034728080034256
+    },
+    "Bihari": {
+        "subjects": 0.8128533689305186,
+        "adjectives": 0.11507810093462467,
+        "professions": 0.38740578666329384
+    },
+    "Chattisgarhi": {
+        "subjects": 0.8503504898399115,
+        "adjectives": 0.11523178964853287,
+        "professions": 0.48794603161513805,
+        "food": 0.10190954059362411
+    },
+    "Goan": {
+        "subjects": 0.4078218825161457,
+        "professions": 0.43724524043500423,
+        "adjectives": 0.05389130115509033
+    },
+    "Gujarati": {
+        "subjects": 0.7628358285874128,
+        "adjectives": 0.0463535375893116,
+        "food": 0.07014112919569016,
+        "professions": 0.6200702898204327
+    },
+    "Haryanvi": {
+        "subjects": 0.5455733668059111,
+        "professions": 0.37193698063492775,
+        "adjectives": 0.040891923010349274
+    },
+    "Himachali": {
+        "subjects": 0.3404318615794182,
+        "professions": 0.3484456203877926,
+        "adjectives": 0.02453477866947651
+    },
+    "Jharkhandi": {
+        "subjects": 0.6949642188847065,
+        "professions": 0.6648389790207148,
+        "adjectives": 0.15126575529575348
+    },
+    "Kannadiga": {
+        "adjectives": 0.07534564193338156,
+        "subjects": 0.6552251968532801,
+        "professions": 0.4063493628054857
+    },
+    "Kashmiri": {
+        "subjects": 0.6127360789105296,
+        "professions": 0.4346194490790367,
+        "adjectives": 0.043037474155426025
+    },
+    "Madhya pradeshi": {
+        "subjects": 0.7625529728829861,
+        "adjectives": 0.19622498005628586,
+        "professions": 0.5756208896636963,
+        "food": 0.06874115020036697
+    },
+    "Manipuri": {
+        "adjectives": 0.04261700436472893,
+        "professions": 0.5530348736792803,
+        "subjects": 0.7350582461804152
+    },
+    "Marathi": {
+        "professions": 0.6293976027518511,
+        "subjects": 0.9101217854768038,
+        "adjectives": 0.1234448915347457,
+        "food": 0.1506207287311554
+    },
+    "Meghalayan": {
+        "subjects": 0.874586165882647,
+        "professions": 0.5272102188318968,
+        "adjectives": 0.0660086665302515,
+        "verbs": 0.022540409117937088
+    },
+    "Mizo": {},
+    "Odiya": {
+        "adjectives": 0.05704525113105774,
+        "subjects": 0.7729834951460361,
+        "professions": 0.4546375870704651,
+        "food": 0.05129743739962578
+    },
+    "Punjabi": {
+        "professions": 0.46362907253205776,
+        "subjects": 0.7650376744568348,
+        "food": 0.13953331112861633
+    },
+    "Rajasthani": {
+        "professions": 0.4382585994899273,
+        "subjects": 0.7088163774460554,
+        "adjectives": 0.07234139740467072,
+        "food": 0.2303430438041687
+    },
+    "Tamilian": {
+        "adjectives": 0.026993099600076675,
+        "professions": 0.5410786159336567,
+        "subjects": 0.13721431605517864,
+        "food": 0.08914705365896225
+    },
+    "Telugu": {
+        "adjectives": 0.06012715585529804,
+        "subjects": 0.18160900846123695,
+        "professions": 0.3285287581384182
+    },
+    "Tripuri": {
+        "subjects": 0.7375427251681685,
+        "adjectives": 0.01951431669294834,
+        "professions": 0.14997825399041176
+    },
+    "Uttar pradeshi": {
+        "subjects": 0.7789137419313192,
+        "professions": 0.5727106016129255,
+        "food": 0.0582754984498024,
+        "adjectives": 0.13022274151444435
+    },
+    "Uttarakhandi": {
+        "adjectives": 0.11201402358710766,
+        "subjects": 0.6688987910747528,
+        "professions": 0.5861466266214848
+    }
+}

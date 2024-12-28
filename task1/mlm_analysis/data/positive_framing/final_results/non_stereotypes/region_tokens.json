@@ -1,0 +1,579 @@
+{
+    "Arunachali": {
+        "professions": [
+            "musician",
+            "poet",
+            "professor",
+            "teacher",
+            "artist",
+            "coach",
+            "farmer",
+            "pilot",
+            "politician",
+            "writer"
+        ],
+        "adjectives": [
+            "rich",
+            "beautiful",
+            "kind",
+            "poor",
+            "strong"
+        ],
+        "subjects": [
+            "art",
+            "english",
+            "music",
+            "science"
+        ]
+    },
+    "Assamese": {
+        "subjects": [
+            "art",
+            "music",
+            "science",
+            "english"
+        ],
+        "professions": [
+            "artist",
+            "coach",
+            "writer",
+            "author",
+            "farmer",
+            "poet",
+            "politician",
+            "professor",
+            "singer",
+            "teacher"
+        ],
+        "adjectives": [
+            "beautiful",
+            "handsome",
+            "kind"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Bengali": {
+        "professions": [
+            "artist",
+            "author",
+            "banker",
+            "professor",
+            "writer",
+            "politician",
+            "singer",
+            "teacher"
+        ],
+        "adjectives": [
+            "beautiful",
+            "kind",
+            "smart",
+            "strong"
+        ],
+        "subjects": [
+            "english",
+            "music",
+            "science"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Bihari": {
+        "subjects": [
+            "art",
+            "politics",
+            "business",
+            "english",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "artist",
+            "coach",
+            "poet",
+            "teacher",
+            "farmer",
+            "musician",
+            "politician",
+            "writer"
+        ],
+        "adjectives": [
+            "strong",
+            "kind",
+            "rich"
+        ]
+    },
+    "Chattisgarhi": {
+        "subjects": [
+            "art",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "artist",
+            "poet",
+            "politician",
+            "cricketer",
+            "farmer",
+            "pilot",
+            "professor",
+            "singer",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "beautiful",
+            "rich",
+            "strong"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Goan": {
+        "subjects": [
+            "art",
+            "law",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "artist",
+            "coach",
+            "farmer",
+            "pilot",
+            "politician",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "handsome",
+            "kind",
+            "strong"
+        ]
+    },
+    "Gujarati": {
+        "professions": [
+            "artist",
+            "author",
+            "coach",
+            "poet",
+            "politician",
+            "professor",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "music",
+            "english",
+            "science"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Haryanvi": {
+        "professions": [
+            "artist",
+            "farmer",
+            "singer",
+            "pilot",
+            "poet",
+            "professor",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "beautiful",
+            "powerful",
+            "strong",
+            "rich"
+        ],
+        "subjects": [
+            "art",
+            "science"
+        ]
+    },
+    "Himachali": {
+        "subjects": [
+            "art",
+            "law",
+            "science"
+        ],
+        "professions": [
+            "pilot",
+            "teacher"
+        ],
+        "adjectives": [
+            "strong"
+        ]
+    },
+    "Jharkhandi": {
+        "subjects": [
+            "art",
+            "science",
+            "music"
+        ],
+        "professions": [
+            "artist",
+            "coach",
+            "musician",
+            "teacher",
+            "farmer",
+            "poet",
+            "politician",
+            "singer",
+            "writer"
+        ],
+        "adjectives": [
+            "handsome",
+            "rich",
+            "strong"
+        ]
+    },
+    "Kannadiga": {
+        "adjectives": [
+            "beautiful",
+            "rich",
+            "strong"
+        ],
+        "subjects": [
+            "art",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "farmer",
+            "musician",
+            "poet",
+            "professor",
+            "singer",
+            "teacher",
+            "writer",
+            "politician"
+        ]
+    },
+    "Kashmiri": {
+        "professions": [
+            "author",
+            "artist",
+            "farmer",
+            "lawyer",
+            "poet",
+            "politician",
+            "professor",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "art",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "beautiful",
+            "kind",
+            "poor",
+            "powerful",
+            "strong",
+            "violent"
+        ]
+    },
+    "Madhya pradeshi": {
+        "subjects": [
+            "art",
+            "law",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "beautiful",
+            "kind",
+            "poor",
+            "rich",
+            "strong"
+        ],
+        "professions": [
+            "coach",
+            "cricketer",
+            "artist",
+            "farmer",
+            "poet",
+            "teacher",
+            "politician",
+            "professor",
+            "singer",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Manipuri": {
+        "professions": [
+            "artist",
+            "farmer",
+            "politician",
+            "pilot",
+            "professor",
+            "singer",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "beautiful",
+            "handsome",
+            "rich",
+            "strong"
+        ],
+        "subjects": [
+            "law",
+            "science",
+            "music"
+        ]
+    },
+    "Marathi": {
+        "professions": [
+            "author",
+            "artist",
+            "politician",
+            "singer",
+            "poet",
+            "professor",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "art",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "kind",
+            "smart"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Meghalayan": {
+        "subjects": [
+            "art",
+            "music",
+            "english",
+            "science"
+        ],
+        "professions": [
+            "artist",
+            "farmer",
+            "coach",
+            "poet",
+            "professor",
+            "teacher",
+            "politician",
+            "writer"
+        ],
+        "adjectives": [
+            "beautiful",
+            "kind",
+            "strong"
+        ]
+    },
+    "Mizo": {
+        "professions": [
+            "coach"
+        ]
+    },
+    "Odiya": {
+        "professions": [
+            "farmer",
+            "artist",
+            "poet",
+            "writer",
+            "politician",
+            "teacher"
+        ],
+        "subjects": [
+            "art",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "beautiful",
+            "handsome",
+            "strong"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Punjabi": {
+        "subjects": [
+            "art",
+            "english",
+            "science"
+        ],
+        "professions": [
+            "author",
+            "driver",
+            "poet",
+            "artist",
+            "politician",
+            "singer",
+            "professor",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "beautiful",
+            "emotional",
+            "kind"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Rajasthani": {
+        "professions": [
+            "farmer",
+            "poet",
+            "politician",
+            "artist",
+            "musician",
+            "painter",
+            "professor",
+            "singer",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "law",
+            "art",
+            "science"
+        ],
+        "adjectives": [
+            "kind",
+            "strong"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Tamilian": {
+        "subjects": [
+            "art",
+            "music",
+            "physics"
+        ],
+        "professions": [
+            "artist",
+            "author",
+            "musician",
+            "pilot",
+            "poet",
+            "politician",
+            "professor",
+            "writer",
+            "teacher"
+        ],
+        "adjectives": [
+            "beautiful",
+            "kind"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Telugu": {
+        "subjects": [
+            "art",
+            "science"
+        ],
+        "professions": [
+            "professor",
+            "artist",
+            "teacher",
+            "writer"
+        ]
+    },
+    "Tripuri": {
+        "professions": [
+            "artist",
+            "author",
+            "musician",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "music",
+            "art",
+            "science"
+        ],
+        "adjectives": [
+            "kind",
+            "strong"
+        ]
+    },
+    "Uttar pradeshi": {
+        "subjects": [
+            "art",
+            "music",
+            "politics",
+            "science"
+        ],
+        "professions": [
+            "artist",
+            "cricketer",
+            "poet",
+            "singer",
+            "politician",
+            "professor",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "rich",
+            "kind",
+            "poor",
+            "smart",
+            "strong"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Uttarakhandi": {
+        "professions": [
+            "coach",
+            "politician",
+            "singer",
+            "artist",
+            "farmer",
+            "musician",
+            "poet",
+            "professor",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "music",
+            "art",
+            "science"
+        ],
+        "adjectives": [
+            "rich",
+            "strong",
+            "beautiful",
+            "handsome",
+            "kind",
+            "poor"
+        ],
+        "food": [
+            "spicy"
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "Arunachali": {
+        "subjects": 0.6665544770658016,
+        "adjectives": 0.16718395426869392,
+        "professions": 0.10479092411696911
+    },
+    "Assamese": {
+        "subjects": 0.80877286195755,
+        "adjectives": 0.14382334798574448,
+        "professions": 0.0764606986194849,
+        "food": 0.03729928657412529,
+        "verbs": 0.020907124504446983
+    },
+    "Bengali": {
+        "adjectives": 0.11898321937769651,
+        "subjects": 1.0574114583432674,
+        "professions": 0.04499392956495285
+    },
+    "Bihari": {
+        "adjectives": 0.08096826635301113,
+        "subjects": 0.6491686133667827,
+        "professions": 0.07215599901974201
+    },
+    "Chattisgarhi": {
+        "subjects": 0.7481985129415989,
+        "adjectives": 0.13914029859006405,
+        "professions": 0.0810890831053257
+    },
+    "Goan": {
+        "professions": 0.026843052357435226,
+        "subjects": 0.36886679008603096,
+        "adjectives": 0.09977189265191555
+    },
+    "Gujarati": {
+        "adjectives": 0.09618200175464153,
+        "subjects": 1.2710855323821306,
+        "professions": 0.11245407164096832
+    },
+    "Haryanvi": {
+        "subjects": 0.6235768236219883,
+        "professions": 0.07882805541157722,
+        "adjectives": 0.08182011544704437
+    },
+    "Himachali": {
+        "subjects": 0.23437969014048576,
+        "professions": 0.08773633278906345,
+        "adjectives": 0.024496885016560555
+    },
+    "Jharkhandi": {
+        "adjectives": 0.15301183983683586,
+        "subjects": 0.694097463041544,
+        "professions": 0.11235551722347736
+    },
+    "Kannadiga": {
+        "subjects": 0.47132572531700134,
+        "adjectives": 0.1557270847260952
+    },
+    "Kashmiri": {
+        "subjects": 0.7172576114535332,
+        "adjectives": 0.04775965213775635,
+        "verbs": 0.03684113547205925
+    },
+    "Madhya pradeshi": {
+        "adjectives": 0.21482647582888603,
+        "subjects": 0.678108885884285,
+        "professions": 0.13422337174415588,
+        "verbs": 0.048672016710042953
+    },
+    "Manipuri": {
+        "subjects": 0.8333409242331982,
+        "adjectives": 0.09196188859641552,
+        "professions": 0.10037261247634888
+    },
+    "Marathi": {
+        "professions": 0.11492859572172165,
+        "subjects": 1.7074723839759827,
+        "adjectives": 0.15235522855073214,
+        "food": 0.061809372156858444
+    },
+    "Meghalayan": {
+        "subjects": 0.6789381010457873,
+        "adjectives": 0.1503851469606161,
+        "professions": 0.060210417956113815,
+        "verbs": 0.06441280245780945
+    },
+    "Mizo": {
+        "adjectives": 0.05236155726015568
+    },
+    "Odiya": {
+        "adjectives": 0.06025012023746967,
+        "subjects": 0.64055719319731,
+        "professions": 0.04393140971660614
+    },
+    "Punjabi": {
+        "subjects": 1.2662103846669197,
+        "adjectives": 0.07170712575316429,
+        "food": 0.0690503716468811,
+        "professions": 0.0245024636387825
+    },
+    "Rajasthani": {
+        "professions": 0.10148649290204048,
+        "subjects": 0.8209899105131626,
+        "adjectives": 0.10215579345822334,
+        "food": 0.1043812744319439,
+        "verbs": 0.03692000359296799
+    },
+    "Tamilian": {
+        "adjectives": 0.07056539878249168,
+        "subjects": 0.14374932274222374,
+        "professions": 0.08800983056426048
+    },
+    "Telugu": {
+        "adjectives": 0.13010281510651112,
+        "subjects": 0.3206293284893036,
+        "professions": 0.020600877702236176
+    },
+    "Tripuri": {
+        "subjects": 0.5146623253822327,
+        "adjectives": 0.1354671735316515
+    },
+    "Uttar pradeshi": {
+        "subjects": 0.6676278933882713,
+        "professions": 0.09064577519893646,
+        "adjectives": 0.20480459928512573,
+        "verbs": 0.028497491031885147
+    },
+    "Uttarakhandi": {
+        "adjectives": 0.12155813351273537,
+        "subjects": 0.540025606751442,
+        "professions": 0.1265489086508751,
+        "verbs": 0.10877783596515656
+    }
+}

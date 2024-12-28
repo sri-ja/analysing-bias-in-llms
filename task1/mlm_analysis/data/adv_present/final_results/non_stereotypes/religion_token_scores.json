@@ -1,0 +1,29 @@
+{
+    "Buddhist": {
+        "professions": 0.2847261279821396,
+        "subjects": 0.227504201233387
+    },
+    "Christian": {
+        "professions": 0.21836456283926964,
+        "subjects": 0.342080133035779
+    },
+    "Hindu": {
+        "professions": 0.24976716190576553,
+        "adjectives": 0.050683336332440376,
+        "subjects": 0.19915736839175224
+    },
+    "Jain": {
+        "professions": 0.358577698469162,
+        "subjects": 0.34139485098421574
+    },
+    "Muslim": {
+        "subjects": 0.4187244176864624,
+        "professions": 0.2545236935839057,
+        "adjectives": 0.05911627784371376
+    },
+    "Sikh": {
+        "subjects": 0.540863336995244,
+        "adjectives": 0.020670944824814796,
+        "professions": 0.2720863949507475
+    }
+}

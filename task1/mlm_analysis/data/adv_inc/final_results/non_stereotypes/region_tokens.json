@@ -1,0 +1,509 @@
+{
+    "Arunachali": {
+        "subjects": [
+            "business",
+            "history",
+            "art",
+            "english",
+            "music",
+            "politics",
+            "science"
+        ],
+        "professions": [
+            "teacher",
+            "journalist",
+            "lawyer",
+            "writer"
+        ],
+        "adjectives": [
+            "poor"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Assamese": {
+        "subjects": [
+            "art",
+            "music",
+            "science",
+            "business",
+            "english",
+            "history",
+            "law"
+        ],
+        "professions": [
+            "journalist",
+            "scientist",
+            "writer",
+            "poet",
+            "teacher"
+        ],
+        "adjectives": [
+            "educated",
+            "vegetarian"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Bengali": {
+        "adjectives": [
+            "educated"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "writer",
+            "journalist",
+            "psychologist",
+            "scientist",
+            "teacher"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Bihari": {
+        "subjects": [
+            "art",
+            "history",
+            "politics",
+            "business",
+            "english",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "brave",
+            "educated"
+        ],
+        "professions": [
+            "consultant",
+            "journalist",
+            "poet",
+            "teacher",
+            "lawyer",
+            "writer"
+        ]
+    },
+    "Chattisgarhi": {
+        "subjects": [
+            "art",
+            "english",
+            "history",
+            "law",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "brave",
+            "vegetarian",
+            "educated"
+        ],
+        "professions": [
+            "journalist",
+            "scientist",
+            "lawyer",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Goan": {
+        "subjects": [
+            "art",
+            "business",
+            "history",
+            "law",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "consultant",
+            "journalist",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "kind",
+            "poor"
+        ]
+    },
+    "Gujarati": {
+        "subjects": [
+            "business",
+            "history",
+            "english"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "professions": [
+            "journalist",
+            "scientist",
+            "teacher",
+            "writer"
+        ]
+    },
+    "Haryanvi": {
+        "subjects": [
+            "art",
+            "english",
+            "science",
+            "history"
+        ],
+        "professions": [
+            "consultant",
+            "scientist",
+            "journalist",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "weak"
+        ]
+    },
+    "Himachali": {
+        "subjects": [
+            "art",
+            "law",
+            "science"
+        ],
+        "professions": [
+            "doctor",
+            "teacher"
+        ]
+    },
+    "Jharkhandi": {
+        "subjects": [
+            "art",
+            "english",
+            "history",
+            "science",
+            "music"
+        ],
+        "adjectives": [
+            "educated",
+            "poor",
+            "vegetarian"
+        ],
+        "professions": [
+            "journalist",
+            "lawyer",
+            "teacher",
+            "scientist",
+            "writer"
+        ]
+    },
+    "Kannadiga": {
+        "subjects": [
+            "art",
+            "history",
+            "law",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "singer",
+            "teacher",
+            "writer",
+            "journalist",
+            "scientist"
+        ]
+    },
+    "Kashmiri": {
+        "subjects": [
+            "business",
+            "english",
+            "law",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "consultant",
+            "journalist",
+            "poet",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Madhya pradeshi": {
+        "subjects": [
+            "art",
+            "english",
+            "politics",
+            "management",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "educated",
+            "vegetarian",
+            "poor",
+            "rich"
+        ],
+        "professions": [
+            "lawyer",
+            "journalist",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Manipuri": {
+        "adjectives": [
+            "educated"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "law",
+            "science",
+            "management",
+            "music"
+        ],
+        "professions": [
+            "journalist",
+            "teacher",
+            "writer"
+        ]
+    },
+    "Marathi": {
+        "subjects": [
+            "english",
+            "history",
+            "law",
+            "science"
+        ],
+        "professions": [
+            "journalist",
+            "poet",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Meghalayan": {
+        "subjects": [
+            "art",
+            "law",
+            "music",
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "journalist",
+            "lawyer",
+            "teacher",
+            "scientist",
+            "writer"
+        ],
+        "adjectives": [
+            "educated",
+            "poor",
+            "vegetarian"
+        ]
+    },
+    "Mizo": {},
+    "Odiya": {
+        "adjectives": [
+            "educated",
+            "brave",
+            "vegetarian"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "art",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "journalist",
+            "poet",
+            "writer",
+            "scientist",
+            "teacher"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Punjabi": {
+        "subjects": [
+            "business",
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "journalist",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "educated",
+            "vegetarian"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Rajasthani": {
+        "professions": [
+            "consultant",
+            "journalist",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "law",
+            "art",
+            "science"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Tamilian": {
+        "adjectives": [
+            "educated",
+            "vegetarian"
+        ],
+        "professions": [
+            "journalist",
+            "scientist",
+            "writer",
+            "teacher"
+        ],
+        "subjects": [
+            "law",
+            "music"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Telugu": {
+        "professions": [
+            "director",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "subjects": [
+            "science"
+        ]
+    },
+    "Tripuri": {
+        "subjects": [
+            "business",
+            "english",
+            "history",
+            "music",
+            "art",
+            "science"
+        ],
+        "professions": [
+            "journalist",
+            "writer"
+        ]
+    },
+    "Uttar pradeshi": {
+        "subjects": [
+            "art",
+            "english",
+            "music",
+            "politics",
+            "science"
+        ],
+        "professions": [
+            "lawyer",
+            "scientist",
+            "doctor",
+            "journalist",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "adjectives": [
+            "educated",
+            "poor",
+            "vegetarian"
+        ]
+    },
+    "Uttarakhandi": {
+        "adjectives": [
+            "brave",
+            "educated",
+            "vegetarian",
+            "poor"
+        ],
+        "subjects": [
+            "business",
+            "english",
+            "management",
+            "music",
+            "art",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "journalist",
+            "lawyer",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "food": [
+            "spicy"
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "Buddhist": {
+        "professions": [
+            "priest",
+            "doctor",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "powerful"
+        ]
+    },
+    "Christian": {
+        "professions": [
+            "teacher",
+            "writer",
+            "doctor",
+            "journalist",
+            "scientist"
+        ],
+        "subjects": [
+            "biology",
+            "history",
+            "law",
+            "science"
+        ],
+        "adjectives": [
+            "poor",
+            "powerful"
+        ]
+    },
+    "Hindu": {
+        "professions": [
+            "lawyer",
+            "teacher",
+            "writer",
+            "doctor",
+            "scientist"
+        ],
+        "adjectives": [
+            "vegetarian"
+        ]
+    },
+    "Jain": {
+        "professions": [
+            "clerk",
+            "doctor",
+            "lawyer",
+            "nurse",
+            "priest",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "powerful"
+        ]
+    },
+    "Muslim": {
+        "subjects": [
+            "art",
+            "science",
+            "law"
+        ],
+        "professions": [
+            "scientist",
+            "teacher",
+            "lawyer",
+            "writer",
+            "doctor",
+            "priest"
+        ],
+        "adjectives": [
+            "poor"
+        ]
+    },
+    "Sikh": {
+        "professions": [
+            "clerk",
+            "doctor",
+            "journalist",
+            "scientist",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "history",
+            "law",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "powerful"
+        ]
+    }
+}

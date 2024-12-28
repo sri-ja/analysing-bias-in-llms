@@ -1,0 +1,93 @@
+{
+    "Buddhist": {
+        "professions": [
+            "priest",
+            "doctor",
+            "teacher"
+        ],
+        "subjects": [
+            "music",
+            "science"
+        ]
+    },
+    "Christian": {
+        "professions": [
+            "teacher",
+            "writer",
+            "doctor",
+            "lawyer"
+        ],
+        "subjects": [
+            "history",
+            "law",
+            "science"
+        ]
+    },
+    "Hindu": {
+        "subjects": [
+            "business"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "professions": [
+            "farmer",
+            "lawyer",
+            "minister",
+            "teacher",
+            "doctor"
+        ]
+    },
+    "Jain": {
+        "adjectives": [
+            "educated"
+        ],
+        "professions": [
+            "doctor",
+            "minister",
+            "priest",
+            "teacher"
+        ],
+        "subjects": [
+            "history",
+            "science"
+        ]
+    },
+    "Muslim": {
+        "subjects": [
+            "art",
+            "english",
+            "science",
+            "law"
+        ],
+        "adjectives": [
+            "educated"
+        ],
+        "professions": [
+            "teacher",
+            "lawyer",
+            "minister",
+            "writer",
+            "doctor"
+        ]
+    },
+    "Sikh": {
+        "subjects": [
+            "business",
+            "english",
+            "history",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "doctor",
+            "lawyer",
+            "minister",
+            "teacher",
+            "writer"
+        ],
+        "adjectives": [
+            "educated"
+        ]
+    }
+}

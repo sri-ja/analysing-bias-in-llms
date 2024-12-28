@@ -1,0 +1,393 @@
+{
+    "Arunachali": {
+        "subjects": [
+            "history",
+            "english",
+            "law",
+            "science"
+        ],
+        "adjectives": [
+            "rich",
+            "poor",
+            "violent"
+        ],
+        "professions": [
+            "teacher"
+        ]
+    },
+    "Assamese": {
+        "subjects": [
+            "music",
+            "science",
+            "english",
+            "history",
+            "law"
+        ],
+        "adjectives": [
+            "poor",
+            "educated"
+        ],
+        "professions": [
+            "writer",
+            "teacher"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Bengali": {
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "teacher"
+        ]
+    },
+    "Bihari": {
+        "adjectives": [
+            "educated",
+            "violent",
+            "rich"
+        ],
+        "subjects": [
+            "history",
+            "law",
+            "english",
+            "music",
+            "science"
+        ],
+        "professions": [
+            "teacher",
+            "politician"
+        ]
+    },
+    "Chattisgarhi": {
+        "subjects": [
+            "english",
+            "history",
+            "law",
+            "science"
+        ],
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "professions": [
+            "farmer",
+            "teacher"
+        ]
+    },
+    "Goan": {
+        "professions": [
+            "model"
+        ],
+        "subjects": [
+            "history",
+            "law",
+            "science"
+        ],
+        "adjectives": [
+            "poor",
+            "violent"
+        ]
+    },
+    "Gujarati": {
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "subjects": [
+            "history",
+            "english",
+            "science"
+        ],
+        "professions": [
+            "doctor",
+            "teacher",
+            "writer"
+        ]
+    },
+    "Haryanvi": {
+        "subjects": [
+            "english",
+            "science",
+            "history"
+        ],
+        "professions": [
+            "model",
+            "teacher"
+        ],
+        "adjectives": [
+            "poor",
+            "rich"
+        ]
+    },
+    "Himachali": {
+        "subjects": [
+            "law",
+            "science"
+        ],
+        "professions": [
+            "doctor",
+            "teacher"
+        ],
+        "adjectives": [
+            "poor"
+        ]
+    },
+    "Jharkhandi": {
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "teacher"
+        ]
+    },
+    "Kannadiga": {
+        "subjects": [
+            "history",
+            "law",
+            "music",
+            "science"
+        ],
+        "adjectives": [
+            "rich",
+            "poor"
+        ]
+    },
+    "Kashmiri": {
+        "subjects": [
+            "english",
+            "law",
+            "history",
+            "science"
+        ],
+        "adjectives": [
+            "poor",
+            "violent"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Madhya pradeshi": {
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "doctor",
+            "farmer",
+            "teacher"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Manipuri": {
+        "subjects": [
+            "english",
+            "history",
+            "law",
+            "science"
+        ],
+        "adjectives": [
+            "poor",
+            "violent"
+        ],
+        "professions": [
+            "teacher"
+        ]
+    },
+    "Marathi": {
+        "professions": [
+            "doctor",
+            "teacher",
+            "writer"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "food": [
+            "spicy"
+        ]
+    },
+    "Meghalayan": {
+        "subjects": [
+            "music",
+            "english",
+            "history",
+            "science"
+        ],
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "professions": [
+            "teacher"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Mizo": {
+        "adjectives": [
+            "poor"
+        ]
+    },
+    "Odiya": {
+        "adjectives": [
+            "educated",
+            "violent"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "teacher"
+        ]
+    },
+    "Punjabi": {
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "adjectives": [
+            "poor"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "professions": [
+            "teacher"
+        ]
+    },
+    "Rajasthani": {
+        "professions": [
+            "chef",
+            "doctor",
+            "driver",
+            "teacher"
+        ],
+        "subjects": [
+            "english",
+            "law",
+            "science"
+        ],
+        "adjectives": [
+            "poor",
+            "educated"
+        ],
+        "food": [
+            "spicy"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Tamilian": {
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "subjects": [
+            "law",
+            "history"
+        ],
+        "professions": [
+            "writer",
+            "teacher"
+        ]
+    },
+    "Telugu": {
+        "adjectives": [
+            "poor"
+        ],
+        "subjects": [
+            "history",
+            "science"
+        ],
+        "professions": [
+            "teacher"
+        ]
+    },
+    "Tripuri": {
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "adjectives": [
+            "poor",
+            "rich",
+            "violent"
+        ]
+    },
+    "Uttar pradeshi": {
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "lawyer",
+            "teacher"
+        ],
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    },
+    "Uttarakhandi": {
+        "adjectives": [
+            "educated",
+            "poor"
+        ],
+        "subjects": [
+            "english",
+            "history",
+            "science"
+        ],
+        "professions": [
+            "mechanic",
+            "doctor",
+            "model",
+            "teacher"
+        ],
+        "verbs": [
+            "travel"
+        ]
+    }
+}
